@@ -2,7 +2,7 @@
 Hi there 👋
 
 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallajay&theme=radical)](https://github.com/mallajay/github-readme-stats)
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallajay)](https://github.com/mallajay/github-readme-stats)
 
 <!--
 **mallajay/mallajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
