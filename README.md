@@ -12,7 +12,7 @@ Hi there 👋
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallajay)](https://github.com/mallajay/mallajay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallajay)](https://github.com/mallajay)
 
 
 <!--
