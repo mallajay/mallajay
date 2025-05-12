@@ -1,66 +1,43 @@
-# Hi, I'm Ajay Mall 👋
+# 👋 Hi, I'm Ajay Mall
 
-<!-- I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. -->
+### 💻 Full Stack Developer | MEAN Stack | Cloud Enthusiast
 
-<!--![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=mallajay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+Welcome to my GitHub! I'm a passionate full stack developer with 5+ years of experience building scalable web and mobile applications. I specialize in JavaScript technologies and love turning complex problems into elegant, efficient solutions.
 
+---
 
+## 🚀 Tech Stack & Tools
 
+- **Frontend**: Angular, Tailwind CSS, JavaScript, AG Grid, Ionic
+- **Backend**: Node.js, Express.js, Python, Flask
+- **Database**: PostgreSQL, MongoDB
+- **Cloud & DevOps**: Google Cloud Platform (GCP – Multiple Services)
+- **Mobile**: Ionic Framework, Google Play Console (Publishing & Management)
 
+---
 
+## 📌 Current Focus
 
-<!--
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+- Building cross-platform mobile apps using Ionic & Angular  
+- Leveraging GCP services to create robust, scalable backends  
+- Exploring modern design systems with Tailwind CSS  
+- Continuous learning in Python and Cloud Engineering  
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-## 🚀 About Me
+## 📫 Connect With Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ajay-mall-13a551109/)  
+- 📧 Email: mallajay19@gmail.com 
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 📈 GitHub Stats
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## 🌱 Currently Exploring
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
--->
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting!
